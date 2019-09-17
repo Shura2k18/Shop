@@ -1,22 +1,15 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --main-theme: #131313;
-    --main-color: white;
-  }
-}
+    --main-color: white; } }
 
 @media (prefers-color-scheme: light) {
   :root {
     --main-theme: orange;
-    --main-color: #131313;
-  }
-}
+    --main-color: #131313; } }
 
 * {
-  font-family: Nunito;
-}
+  font-family: Nunito; }
 
 body {
-  background: var(--main-theme);
-}
-/*# sourceMappingURL=style.css.map */
+  background: var(--main-theme); }
