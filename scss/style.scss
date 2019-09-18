@@ -1,0 +1,10 @@
+@import "variables";
+@import "media";
+
+* {
+    font-family: Nunito;
+}
+
+body {
+    background: var(--main-theme);
+}
